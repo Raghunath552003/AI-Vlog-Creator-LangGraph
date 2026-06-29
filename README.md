@@ -4,12 +4,6 @@ An AI-powered multi-agent application that automatically researches any topic, w
 
 ---
 
-## 🚀 Live Demo
-
-> Deploy on Streamlit Cloud — coming soon!
-
----
-
 ## 🧠 How It Works
 
 Three AI agents work together in a LangGraph pipeline, passing results through shared state:
